@@ -1,7 +1,7 @@
 ### 실행 환경 :
 
-  * _Product Version_ : 
-  * _Client OS_ : 
+ * _Product Version_ : 
+ * _Client OS_ : 
 
 ### 기대하는 동작 :
 
