@@ -1,10 +1,12 @@
-### Execution environment :
+### 실행 환경 :
 
   * Product Version :
-  * Client OS :
+  * OS :
 
-### Expected Behavior :
+### 기대하는 동작 :
 
-### Actial Behavior :
 
-### Steps to reproduce the behavior :
+### 실제 동작 :
+
+
+### 동작을 재현하는 방법 :
