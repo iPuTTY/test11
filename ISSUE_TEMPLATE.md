@@ -1,4 +1,4 @@
-***test Version : *** 
+***iPuTTY Version : *** 
 ***OS version : *** 
 
-***Requset issue: ***
+***요청 사항: ***
